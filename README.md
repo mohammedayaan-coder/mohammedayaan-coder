@@ -89,7 +89,7 @@ Participated in my first hackathon and experienced the full cycle of building un
 
 ### 👨‍💻 NEXUS — Next-Gen Coders United Society
 
-**Technical Member**
+**Technical Lead**
 
 Contributed to:
 
