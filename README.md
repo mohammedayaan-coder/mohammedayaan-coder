@@ -157,17 +157,21 @@ Generative AI           ███░░░░░░░░░░░
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohammedayaan-coder&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedayaan-coder&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=naila-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="Naila's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naila-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naila-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naila-byte/naila-byte/output/github-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 ## 🌐 Connect With Me
 
