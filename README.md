@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ayaan
+#  Hey, I'm Ayaan
 
 ### `Aspiring AI Engineer • Software Developer • Creator`
 
